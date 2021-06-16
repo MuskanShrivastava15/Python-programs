@@ -1,0 +1,15 @@
+import array as arr
+# n = int(input("enter theno "))
+# c=0
+# x=[int(x)for x in input("enter the elements inl1",).split()]
+# print("number of elements in the list1",x)
+# y=[int(y) for y in input("enter the element in l2",).split()]
+# print("number of elements in list2 ",x)
+# if len(x) or len(y)==0:
+#     print("-1")
+# else:
+#     x.reverse()
+# for n in range(0,n):
+#     c+=x*y
+# print
+
